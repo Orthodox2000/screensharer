@@ -1,0 +1,6 @@
+{
+  "/broadcaster/page": "app/broadcaster/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/viewer/page": "app/viewer/page.js"
+}
